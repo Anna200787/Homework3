@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="09619fb5-d006-4172-bad5-7fdc2fffa4be" name="Changes" comment="Initial Commit">
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="09619fb5-d006-4172-bad5-7fdc2fffa4be" name="Changes" comment="Homework3 done!" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,7 +42,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1673300996857</updated>
-      <workItem from="1673300998247" duration="13015000" />
+      <workItem from="1673300998247" duration="13359000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1673394410720</created>
@@ -53,7 +51,21 @@
       <option name="project" value="LOCAL" />
       <updated>1673394410720</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Homework3 done!">
+      <created>1673395461311</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1673395461311</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Homework3 done!">
+      <created>1673395510583</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1673395510583</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -62,6 +74,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initiak Commit" />
     <MESSAGE value="Initial Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
+    <MESSAGE value="Homework3 done!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework3 done!" />
   </component>
 </project>
