@@ -24,7 +24,7 @@ public class Main {
         long o=987678965549L;
         System.out.println(o);
         float b=2.786f;
-        System.out.println(b);
+        System.out.print
         short p=569;
         System.out.println(p);
         short t=-159;
@@ -93,15 +93,6 @@ public class Main {
         float kristinaNewSalaryYear=kristinaPercent10*12;
         float kristinaDifferentSalaryYear=kristinaNewSalaryYear-kristinaSalaryYear;
         System.out.println( "Кристина теперь получает " + kristinaPercent10 + " рублей. Годовой доход вырос на " + kristinaDifferentSalaryYear + " рублей");
-
-
-
-
-
-
-
-
-
 
 
 
